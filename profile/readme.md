@@ -11,6 +11,6 @@ _BelgiansDev_ is primarily a French-speaking organization where we create projec
 
 | Flag | Avatar | Name | Role | Flag | Avatar | Name | Role |
 |---|---|---|---|---|---|---|---|
-| 🇧🇪 | <img src="???"> | **Anorix126** | *Organization User* | 🇧🇪 & 🇺🇦 | <img src="???"> | **Martonissss** | *Organization User* |
-| 🇧🇪 | <img src="https://github.com/BelgiansDev/.github/blob/main/images/robocnop.png" height="75px"> | **Robocnop** | *Organization Owner* | 🇧🇪 | <img src="???"> | **TheMagnumBE** | *Organization User* |
-| 🇧🇪 | <img src="https://github.com/BelgiansDev/.github/blob/main/images/tronix.jpg" height="75px"> | **Tronix** | *Organization User* | 🇧🇪 | <img src="https://github.com/BelgiansDev/.github/blob/main/images/xenolan.jpg" height="75px"> | **XenoI4n** | *Organization User* |
+| 🇧🇪 | <img src="???"> | **Anorix126** | *Organization Member* | 🇧🇪 & 🇺🇦 | <img src="???"> | **Martonissss** | *Organization Member* |
+| 🇧🇪 | <img src="https://github.com/BelgiansDev/.github/blob/main/images/robocnop.png" height="75px"> | **Robocnop** | *Organization Owner* | 🇧🇪 | <img src="???"> | **TheMagnumBE** | *Organization Member* |
+| 🇧🇪 | <img src="https://github.com/BelgiansDev/.github/blob/main/images/tronix.jpg" height="75px"> | **Tronix** | *Organization Member* | 🇧🇪 | <img src="https://github.com/BelgiansDev/.github/blob/main/images/xenolan.jpg" height="75px"> | **XenoI4n** | *Organization Member* |
