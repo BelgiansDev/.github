@@ -1,7 +1,7 @@
 # BelgiansDev
 ---
 
-**Unity Makes Strength**
+**"Unity Makes Strength"**
 
 ---
 
