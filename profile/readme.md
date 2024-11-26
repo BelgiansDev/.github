@@ -19,4 +19,4 @@ _BelgiansDev_ is primarily a French-speaking organization where we create projec
 
 | Flag | Avatar | Name | Role |
 |---|---|---|---|
-| 🇨🇭 | <img src="https://github.com/BelgiansDev/.github/blob/main/images/placeholder.png" height="75px" alt="Image unavailable"> | **Antoniofo** | *Outside Collaborator* |
+| 🇨🇭 | <img src="https://github.com/BelgiansDev/.github/blob/main/images/Antoniofo.png" height="75px" alt="Image unavailable"> | **Antoniofo** | *Outside Collaborator* |
